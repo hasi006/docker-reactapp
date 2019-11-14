@@ -1,0 +1,3 @@
+#exclude files
+build/
+node_modules/
